@@ -1,4 +1,4 @@
-package main
+package boj1931
 
 import (
 	"bufio"
