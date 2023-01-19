@@ -1,4 +1,4 @@
-package main
+package boj20300
 
 import (
 	"bufio"
